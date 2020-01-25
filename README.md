@@ -1,7 +1,7 @@
 # COP_3502C
 projects for cs1
 
-assignmetn 0
+assignment 0
 String mutations
 
 assignment 1
